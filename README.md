@@ -16,6 +16,8 @@ Please feel free to contribute by creating a Pull Request. 🚀
 
 ## APIs and SDKs
 * [OpenAI API suite](https://beta.openai.com/docs/libraries/node-js-library) - npm library for interacting with OpenAI's AI models like GPT-3, Codex and DALL·E.
+  
+* **[Soffos.ai API AI Platform: https://www.soffos.ai] (https://www.soffos.ai)** - **_Free_** - **_Paid_** - _MODULAR AI APIS THAT DO NOT NEED PROMPTING AND ARE OPTIMIZED FOR BEST RESULTS. WITH SDK FOR [PYTHON](https://github.com/Soffos-Inc/soffosai-python) AND [JAVASCRIPT](https://github.com/Soffos-Inc/soffosai-js) _
 
 #### Text based
 * [Google Cloud Speech-to-Text SDK](https://cloud.google.com/speech-to-text/docs/transcribe-client-libraries#client-libraries-install-nodejs) - Transcribe speech to text using the Google Cloud Speech-to-Text API
